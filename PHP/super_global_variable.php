@@ -47,6 +47,7 @@ echo $_SERVER['SERVER_NAME']; //The server's hostname or IP address.
 echo "<br>";
 
 // 3.   $_REQUEST : PHP super global variable which is used to collect data after submitting an HTML form.
+// contains the contents of both the $_GET, $_POST, and $_COOKIE superglobal variables.
 
 
 
