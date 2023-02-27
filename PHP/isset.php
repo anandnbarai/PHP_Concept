@@ -15,6 +15,7 @@
 // Ex.1
 
 $var1 = 'test';
+
 if (isset($var1)) {
     echo "The variable $var1 is set, so it will print. </br>";
     var_dump(isset($var1));
