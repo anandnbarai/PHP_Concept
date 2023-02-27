@@ -64,7 +64,6 @@ if (isset($_REQUEST['username']) && isset($_REQUEST['password'])) {
 //? 4. $_POST
 
 
-
 //? 5. $_GET
 //? 6. $_FILES
 //? 7. $_ENV
